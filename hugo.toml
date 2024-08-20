@@ -1,0 +1,22 @@
+baseURL = "https://www.vislies.org/2024/"
+theme   = "vislies-hugo-theme"
+title   = "VisLies"
+
+[Params]
+this_year = 2024
+first_year = 2015
+
+gallery_ready = false
+
+sidebar_color = "#f6d7b0"
+sidebar_light_background = true
+
+# This allows html markup in markdown pages (that are used to build the
+# web content). Without this, any html content is just removed. In addtion
+# to being convenient to add html snippets, shortcode using {{% %}} syntax
+# flat out doesn't work without it. So, not including this option, IMO,
+# makes no sense.
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
