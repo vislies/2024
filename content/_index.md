@@ -10,11 +10,10 @@ main_nav:
 
 # VisLies 2024
 
-<!--
-**Tuesday October 18** 12:30 – 2:00 PM  
+<!-- **Tuesday October 18** 12:30 – 2:00 PM   -->
 Held in conjunction with IEEE VIS 2024  
-Omni Oklahoma City Hotel, ~~Five Moons 6 Room~~ Oklahoma Station 1
--->
+Time and location TBA
+<!-- Omni Oklahoma City Hotel, ~~Five Moons 6 Room~~ Oklahoma Station 1 -->
 
 This fun and engaging event showcases examples of egregious perceptual,
 cognitive, and conceptual errors in visualization, presented by members of
