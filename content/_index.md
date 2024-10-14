@@ -10,10 +10,13 @@ main_nav:
 
 # VisLies 2024
 
-<!-- **Tuesday October 18** 12:30 – 2:00 PM   -->
+**Thursday October 17** 3:00 – 5:00 PM ET  
 Held in conjunction with IEEE VIS 2024  
-Time and location TBA
-<!-- Omni Oklahoma City Hotel, ~~Five Moons 6 Room~~ Oklahoma Station 1 -->
+Join us on Zoom:
+> https://us02web.zoom.us/j/88927400698?pwd=panLb7uItPm8efaeThfc4Bulj4DgZS.1  
+>   
+> Meeting ID: 889 2740 0698  
+> Passcode: VisLies
 
 This fun and engaging event showcases examples of egregious perceptual,
 cognitive, and conceptual errors in visualization, presented by members of
