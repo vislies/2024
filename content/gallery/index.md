@@ -6,6 +6,8 @@ gallery_nav:
     url: "#left-leaning"
   - title: A Plot of Bubblies
     url: "#a-plot-of-bubblies"
+  - title: Lines Outside the Drawing
+    url: "#lines-outside-the-drawing"
 ---
 
 # VisLies 2024 Gallery
@@ -196,3 +198,39 @@ Furthermore, the technique makes highly irregular shapes, which might further
 interfere with comparisons.
 
 [known to be perceptually nonlinear]: https://makingmaps.net/2007/08/28/perceptual-scaling-of-map-symbols/
+
+## Lines Outside the Drawing
+
+{{< image src="gaussian-outline.png"
+          align="right"
+          width="330px"
+          lie="top-left" >}}
+
+[Bernice Rogowitz] presented this [heat map]. Because this is VisLies, we can't
+help but notice that the map is using a careless rainbow color map. There is a
+perceptually salient change of colors around the value of 270, meaning that
+value will stand out more noticeably than others. Is this value more
+semantically important?
+
+However, the real interesting part of this chart is the curve drawn on top of
+the plot to mark the shape of a Gaussian distribution. Such annotations can be
+helpful in pointing out the structure of data, but you have to be careful. It
+can also inappropriately adjust the interpretation of the data. In this case,
+the data appears to follow the Gaussian curve, but is there more to it?
+
+{{< image src="gaussian-outline-plus.png"
+          align="right"
+          width="330px" >}}
+
+On closer inspection, we see that the data does not follow the Gaussian curve
+completely. The middle is more shallow than a Gaussian and there is a clear
+feature at the right. Perhaps this more detailed curve is a more honest
+representation of the distribution.
+
+Even this curve does not catch all the features in the data. The data on the
+left side of the plot has lower values than on the right. There is also a lower
+group of values in the middle of the "Gaussian." All these features are easier
+to miss when your attention is drawn to a single curve.
+
+[Bernice Rogowitz]: https://sites.google.com/site/bernicerogowitz/
+[heat map]: https://en.wikipedia.org/wiki/Heat_map
