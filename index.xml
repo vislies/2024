@@ -1,6 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>VisLies</title><link>https://www.vislies.org/2024/</link><description>Recent content on VisLies</description><generator>Hugo</generator><language>en</language><atom:link href="https://www.vislies.org/2024/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://www.vislies.org/2024/gallery/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vislies.org/2024/gallery/</guid><description>&lt;h1 id="vislies-2023-gallery">VisLies 2023 Gallery&lt;/h1>
-&lt;p>Short intro.&lt;/p>
-&lt;h2 id="first-section">First Section&lt;/h2>
-&lt;p>Funny example.&lt;/p>
-&lt;h2 id="second-section">Second Section&lt;/h2>
-&lt;p>Even funnier example.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>VisLies</title><link>https://www.vislies.org/2024/</link><description>Recent content on VisLies</description><generator>Hugo</generator><language>en</language><atom:link href="https://www.vislies.org/2024/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://www.vislies.org/2024/gallery/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vislies.org/2024/gallery/</guid><description>&lt;h1 id="vislies-2024-gallery">VisLies 2024 Gallery&lt;/h1>
+&lt;p>This year, hurricanes Helene and Milton wreaked havoc on Florida where the &lt;a href="https://ieeevis.org/year/2024/welcome">IEEE
+Vis conference&lt;/a> and hence &lt;a href="https://www.vislies.org/">VisLies&lt;/a> was supposed to be. So, this year back to
+meeting online.&lt;/p>
+&lt;h2 id="inflated-bars">Inflated Bars&lt;/h2>
+
+
+
+&lt;div class="image-right">
+
+ 
+ &lt;a href="inflated-bar-chart.jpg">
+ 
+ 
+ &lt;img src="../images/lie.png" class="lie-top-right"
+ style="
+ 
+ 
+ 
+ 
+ "/>
+ 
+
+ &lt;img src="inflated-bar-chart.jpg"
+ class="image-in-div"
+ 
+ width="300px"
+ 
+ 
+ />
+ &lt;/a>
+&lt;/div>
+
+&lt;p>&lt;a href="https://www.kennethmoreland.com/">Ken Moreland&lt;/a> started us off with this quick example. Here we see what appears
+to be a bar chart, but it makes not sense. First of all, the bars do not
+adequately reflect the values of the poll. Perhaps this was never intended to be
+a bar chart, but it&amp;rsquo;s layout is confusing.&lt;/p></description></item></channel></rss>
