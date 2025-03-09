@@ -8,6 +8,8 @@ gallery_nav:
     url: "#a-plot-of-bubblies"
   - title: Lines Outside the Drawing
     url: "#lines-outside-the-drawing"
+  - title: Mental Health Soup
+    url: "#mental-health-soup"
 ---
 
 # VisLies 2024 Gallery
@@ -18,6 +20,7 @@ meeting online.
 
 [IEEE Vis conference]: https://ieeevis.org/year/2024/welcome
 [VisLies]: https://www.vislies.org/
+
 
 ## Inflated Bars
 
@@ -96,6 +99,7 @@ presumption. However, the presentation of this supporting visualization leaves a
 false impression that could easily spread.
 
 [a recent Washington Post article]: https://www.washingtonpost.com/business/2024/09/13/popular-names-republican-democrat/
+
 
 ## A Plot of Bubblies
 
@@ -199,6 +203,7 @@ interfere with comparisons.
 
 [known to be perceptually nonlinear]: https://makingmaps.net/2007/08/28/perceptual-scaling-of-map-symbols/
 
+
 ## Lines Outside the Drawing
 
 {{< image src="gaussian-outline.png"
@@ -234,3 +239,25 @@ to miss when your attention is drawn to a single curve.
 
 [Bernice Rogowitz]: https://sites.google.com/site/bernicerogowitz/
 [heat map]: https://en.wikipedia.org/wiki/Heat_map
+
+
+## Mental Health Soup
+
+{{< image src="mental-health-soup.jpeg"
+          align="right"
+          width="400px" >}}
+
+<!-- https://www.soundvision.com/article/raising-awareness-about-mental-health -->
+
+[Bernice][Bernice Rogowitz] found this diagram on a web site about raising
+awareness for mental health. The image seems to resemble a [mind map] concerning
+the factors of mental health. However, the connections all seem to be one level
+away from a single root, which does not impart any structure. There are colors,
+but the colors seem to draw together unrelated items. For example, the purple
+words, brain antidepressant, disorder, and help, have no real relationship with
+each other. 
+
+In the end, the the chart is just a haphazard mishmash of terms. Then again,
+maybe that's the point.
+
+[mind map]: https://en.wikipedia.org/wiki/Mind_map
