@@ -10,6 +10,8 @@ gallery_nav:
     url: "#lines-outside-the-drawing"
   - title: Mental Health Soup
     url: "#mental-health-soup"
+  - title: Wage Imbalance
+    url: "#wage-imbalance"
 ---
 
 # VisLies 2024 Gallery
@@ -261,3 +263,47 @@ In the end, the the chart is just a haphazard mishmash of terms. Then again,
 maybe that's the point.
 
 [mind map]: https://en.wikipedia.org/wiki/Mind_map
+
+
+## Wage Imbalance
+
+{{< image src="price-vs-wages-bad-thumbnail.jpg"
+          link="price-vs-wages-bad.jpg"
+          align="right"
+          width="300px"
+          lie="top-left" >}}
+
+[David Borland] presented this barely visualization infographic. The visual
+elements are triangles that presumably mean increasing and colors that are green
+for good and red/orange for bad. The important data is represented in two
+numbers: an increase of 21% for grocery prices and an increase of 3.8% for
+wages. Clearly, the increase of grocery prices far outweighs increases in wages.
+
+But look more closely at the text below each triangle. Under the grocery prices
+triangle, it states that the increase is for the period since January 2021,
+which is a period of 3 years and 8 months (this graphic was presented October 1,
+2024). However, under the wages triangle it states that the increase is for the
+period since last September, which presumably means for the previous year. The
+increase of two things over different periods of time makes them incomparable.
+The fact that the grocery period is extended so much longer makes it even worse.
+
+{{< image src="price-vs-wages.jpg"
+          align="right"
+          width="400px" >}}
+
+Here is a more reasonable way to look at this data. Here we see the consumer
+price index along with the average hourly earning of all employees. We can see
+that there was a sharp increase in prices in 2022, but those increases have
+leveled. Wages have been steadily increasing and were closing the gap. Thus, we
+can see that in addition to making an unfair comparison with different time
+scales, there is cherry picking happening. During the time of the previous year
+that the infographic measured wage increases, prices had leveled off.
+
+Although simple, this is a particularly egregious lie. Grocery prices were
+reported as a [high contributing factor to the 2024 U.S. presidential election]
+(which happened after [David's][David Borland] presentation but before this
+writeup). Exaggerations of this nature can swing voters away from issues they
+would otherwise prioritize as more important.
+
+[David Borland]: https://davidborland.github.io/webpage/
+[high contributing factor to the 2024 U.S. presidential election]: https://www.cnn.com/2024/11/14/economy/trump-grocery-prices-inflation/index.html
