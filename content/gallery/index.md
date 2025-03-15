@@ -12,6 +12,8 @@ gallery_nav:
     url: "#mental-health-soup"
   - title: Wage Imbalance
     url: "#wage-imbalance"
+  - title: Giants and Pixies
+    url: "#giants-and-pixies"
 ---
 
 # VisLies 2024 Gallery
@@ -307,3 +309,24 @@ would otherwise prioritize as more important.
 
 [David Borland]: https://davidborland.github.io/webpage/
 [high contributing factor to the 2024 U.S. presidential election]: https://www.cnn.com/2024/11/14/economy/trump-grocery-prices-inflation/index.html
+
+## Giants and Pixies
+
+{{< image src="average-male-height.jpg"
+          width="300px"
+          align="right"
+          lie="top-right" >}}
+
+[David][David Borland] next presented this gem of a chart. It uses scaled
+figures of people to demonstrate the average hight across a selection of
+countries. That said, the relative sizes should be suspect. The pixie-sized
+Indonesian comes only to the knee of the Netherlands' giant.
+
+Of course, these sizes do not reflect the actual relative hight of people.
+Rather, this is an artifact of the base of the chart not descending down to
+zero. This highlights the importance of ensuring that the hight of bars (or
+whatever objects you are using) are properly scaled from a 0 value. If they are
+not, then the relative sizes are nonsense, which leads to a humorous effect
+here.
+
+<!-- Source: https://www.reddit.com/r/mildlyinfuriating/comments/zjxkf7/so_many_things_wrong_with_this/ -->
