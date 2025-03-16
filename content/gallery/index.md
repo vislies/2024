@@ -16,6 +16,8 @@ gallery_nav:
     url: "#giants-and-pixies"
   - title: The Death of Music
     url: "#the-death-of-music"
+  - title: Heat Share
+    url: "#heat-share"
 ---
 
 # VisLies 2024 Gallery
@@ -377,3 +379,39 @@ lived full natural lives. Old age deaths bring up the overall value. However,
 rap and hip hop are much younger. Some of the earliest musicians in this genre
 are still alive. The deaths counted for these genres only include those artists
 who have died early, which dramatically reduces the overall value.
+
+
+## Heat Share
+
+{{< image src="temp-per-capita-thumbnail.jpg"
+          link="temp-per-capita.jpg"
+          width="400px"
+          align="right"
+          lie="top-right" >}}
+
+[Dave][Dave Pugmire] also presented this interesting plot of world temperature.
+However, it won't take long to notice some strange things about it. Some of the
+coldest places on Earth such as Greenland and Antarctica are labeled as the
+warmest whereas some countries with warm climates like India are labeled as
+cold.
+
+The reason is that this map is not showing temperature. Rather, it is showing
+temperature per capita. That is, it is the temperature divided by the number of
+people in the region. If this sounds like nonsense, that is because it is.
+
+In fairness, this is probably an intentionally silly parody. But it does bring
+up an interesting point about displaying values per capita. We've advocated at
+VisLies! multiple times for [displaying map values as per capita]. However, this
+only applies when displaying values affected by people such as number of votes,
+number of buildings, number of accidents, number of infections, number of 5G
+towers, etc. These type of values are usually heavily influenced by the number
+of people in a region and often only give an indication of relative population.
+This is fixed by providing the values per capita.
+
+However, the temperature of a region is not (heavily) affected by the population
+in that region, so showing temperature per capita is problematic for the same
+reasons that showing, say, the consumption of peanut butter without it. We are
+just seeing the inverse of population with low population (e.g., Greenland)
+showing high and high population (e.g., India) showing low.
+
+[displaying map values as per capita]: https://www.vislies.org/2021/gallery/#a-bigger-pool
