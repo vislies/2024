@@ -6,7 +6,7 @@ title   = "VisLies"
 this_year = 2024
 first_year = 2015
 
-gallery_ready = false
+gallery_ready = true
 
 sidebar_color = "#f6d7b0"
 sidebar_light_background = true
