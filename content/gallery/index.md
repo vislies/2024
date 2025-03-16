@@ -14,6 +14,8 @@ gallery_nav:
     url: "#wage-imbalance"
   - title: Giants and Pixies
     url: "#giants-and-pixies"
+  - title: The Death of Music
+    url: "#the-death-of-music"
 ---
 
 # VisLies 2024 Gallery
@@ -345,3 +347,33 @@ not, then the relative sizes are nonsense, which leads to a humorous effect
 here.
 
 <!-- Source: https://www.reddit.com/r/mildlyinfuriating/comments/zjxkf7/so_many_things_wrong_with_this/ -->
+
+
+## The Death of Music
+
+{{< image src="music-death-thumbnail.jpg"
+          link="music-death.jpg"
+          width="400px"
+          align="right"
+          lie="top-right" >}}
+
+[Dave Pugmire] presented this deadly example of plotting. The plot shows the
+average age of death for musicians of different genres. There are numerous
+problems with this presentation.
+
+First, the mode of plotting is wrong. The line chart implies there is some
+progression of values such as change over time. However, there is not any real
+progression from one music genre to the next. It would be more appropriate to
+use a bar chart to convey that these are separate categories.
+
+Second, why are the average US life expectancy lines changing? The average US
+life expectancy is independent of musicians genres. It should be a flat
+horizontal line. Are they somehow showing the life expectancy of music fans?
+Is it changing according to some value like time that is not shown at all?
+
+Third, it has been observed that some of the music genres are newer than others.
+The blues genre is well over 100 years old, so plenty of blues musicians have
+lived full natural lives. Old age deaths bring up the overall value. However,
+rap and hip hop are much younger. Some of the earliest musicians in this genre
+are still alive. The deaths counted for these genres only include those artists
+who have died early, which dramatically reduces the overall value.
