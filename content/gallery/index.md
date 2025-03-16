@@ -205,7 +205,22 @@ on area to represent values, and this is [known to be perceptually nonlinear].
 Furthermore, the technique makes highly irregular shapes, which might further
 interfere with comparisons.
 
+{{< image src="voronoi-shape-fit.jpg"
+          width="400px"
+          align="left" >}}
+
+[Dave Pugmire] highlighted how these Voronoi plots may be more problematic than
+pie charts. At first glance, it looks like the blue region takes up half of the
+chart. However, it actually takes up 61% of the area. It takes a very close
+inspection to see that whereas in a pair chart this would be obvious based on
+the angles formed by the wedges. Likewise, the irregular shapes are difficult to
+resolve. On the left of this image, [Dave][Dave Pugmire] has taken outlines of
+some of the regions and overlaid them. Even when free to move the shapes around,
+it is difficult to resolve how, for example, 3 of the 1% regions fit into the 3%
+region.
+
 [known to be perceptually nonlinear]: https://makingmaps.net/2007/08/28/perceptual-scaling-of-map-symbols/
+[Dave Pugmire]: https://www.ornl.gov/staff-profile/dave-r-pugmire
 
 
 ## Lines Outside the Drawing
